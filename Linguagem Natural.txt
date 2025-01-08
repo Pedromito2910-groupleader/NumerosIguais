@@ -1,0 +1,10 @@
+1. Início
+2. Solicitar ao utilizador um número
+3. Armazenar o número introduzido
+4. Solicitar ao utilizador outro número
+5. Armazenar o número introduzido
+6. Se o n1 for igual ao n2 saltar para o 8 passo
+7. Se o n1 for diferente do n2 saltar para o 9 passo
+8. Escrever no ecrã "Os números são iguais" saltar para o passo 10
+9. Escrever no ecrã "Os números são diferentes"
+10. Fim 

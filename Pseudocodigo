@@ -1,0 +1,16 @@
+Algoritmo AnáliseDeNumerosIguais;
+Variáveis n1, n2: inteiro;
+Início 
+      Escrever ("introduza um número inteiro")
+      Ler (n1)
+      Escrever ("introduza outro número inteiro")
+      Ler (n2)
+
+      Se(n1 == n2)Então
+            Escrever("Os números são iguais")
+      Senão
+            Escrever("Os números são diferentes")
+    Fim de Se
+Fim.      
+
+      
