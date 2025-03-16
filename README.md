@@ -1,2 +1,2 @@
-# Análise de Números
+# NumerosIguais
 ## Detetar se dois números são iguais
